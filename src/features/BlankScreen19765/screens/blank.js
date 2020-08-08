@@ -251,11 +251,7 @@ export class _Blank extends React.Component {
           verticalAlign: "baseline",
           borderColor: "#000000",
           borderStyle: "solid",
-          borderWidth: 0,
-          borderLeftWidth: 0,
-          borderRightWidth: 0,
-          borderTopWidth: 0,
-          borderBottomWidth: 0,
+          borderWidth: 2,
           borderRadius: 0
         }}
       />
